@@ -1,6 +1,10 @@
 # BRACOL Evaluation Models
 Data analysis over the BRACOL dataset
 
+The zipped files inside each folder is to be within the upload size of GitHub.
+
+Each of the folders has the images already organized for the models to run, just unzip the files inside the same folder as the Python file.
+
 ### Model 1 - Haralick Features
 This model used Haralick Features to train and make predictions.
 
